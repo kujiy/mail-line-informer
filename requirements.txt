@@ -1,0 +1,7 @@
+pytest
+pytest_watch
+pytest-mock
+python-dotenv
+requests
+pydantic
+chardet

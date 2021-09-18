@@ -1,0 +1,12 @@
+__pycache__
+*.log
+raw*
+.env
+*.swp
+venv
+.idea
+*.png
+.pytest_cache
+
+
+my_rules.py
