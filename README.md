@@ -24,7 +24,7 @@
     1. ```
         git clone https://github.com/kujiy/mail-line-informer.git
         cd mail-line-informer
-        python3 - m venv venv
+        python3 -m venv venv
         . venv/bin/activate
         pip install - r requirements.txt
         python main.py
